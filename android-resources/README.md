@@ -1,4 +1,4 @@
-# 🤖 Android Resources
+# <span style="vertical-align: middle;"><img src="../logos/android_logo.png" alt="Android Logo" style="width:40px;height:auto; margin-bottom:-3px;"></span> &nbsp;Android Resources
 
 Useful Android applications and utilities for development and productivity.
 
