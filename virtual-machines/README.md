@@ -14,11 +14,16 @@ All virtual machines are compressed as **7z archives** and are intended for educ
 
 ## ⚙️ Prerequisites
 
-Before importing any virtual machine, make sure you have:
+Before importing any virtual machine, ensure the following:
 
-* Virtualization (Intel VT-x / AMD-V) enabled in your system BIOS/UEFI.
-* Oracle VirtualBox installed on your system.
-* Sufficient disk space for extracting the virtual machine archive.
+- 📖 **[Enable Virtualization](enable-virtualization.md)** in your system BIOS/UEFI.
+- 💻 Install **Oracle VirtualBox**.
+- 💾 Ensure sufficient disk space to extract the downloaded archive.
+- 📦 Install **7-Zip** (or any compatible archive manager) to extract `.7z` files.
+
+> **Note**
+>
+> If VirtualBox fails to launch or reports missing runtime components, install the latest **Microsoft Visual C++ Redistributable (x64)** from Microsoft's official website before trying again. [Download Here](https://aka.ms/vc14/vc_redist.x64.exe).
 
 ---
 
