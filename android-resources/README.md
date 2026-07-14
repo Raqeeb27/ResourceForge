@@ -8,9 +8,10 @@ Useful Android applications and utilities for development and productivity.
 
 <details>
 <summary>
-<b>🤖 Termux</b>
+&nbsp;<img src="../logos/termux_logo.png" alt="Termux Logo" style="width:30px;height:auto; margin-bottom:-3px;">
+&nbsp;<b>Termux</b>
 </summary>
-&nbsp;🟢 Official &nbsp;⭐ Recommended
+&nbsp; 🟢 Official &nbsp;⭐ Recommended
 
 <br>
 <br>
@@ -38,9 +39,10 @@ A powerful terminal emulator for Android that provides a Linux environment with 
 
 <details>
 <summary>
-<b>📂 Files for Android</b>
+&nbsp;<img src="../logos/marc_files_logo.png" alt="Files for Android Logo" style="width:30px;height:auto; margin-bottom:-3px;">
+&nbsp;<b>Files for Android</b>
 </summary>
- &nbsp;🟢 Official &nbsp;⭐ Recommended
+ &nbsp; 🟢 Official &nbsp;⭐ Recommended
 
 <br>
 <br>
