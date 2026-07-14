@@ -89,3 +89,10 @@ If you find a broken link or have a recommendation, feel free to open an issue o
 ---
 
 ⭐ If you find this repository useful, consider giving it a star.
+
+---
+
+## 🔗 Quick Access
+
+- 🖥️ **[Virtual Machines](virtual-machines/)**
+- 📱 **[Android Resources](android-resources/)**
