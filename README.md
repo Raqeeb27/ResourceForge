@@ -1,8 +1,10 @@
-# ResourceForge
+<div align="center">
 
-<p align="center">
-  <b>A curated collection of software, virtual machines, utilities, APKs, installers, and other useful resources.</b>
-</p>
+# ResourceForge <span style="vertical-align: middle;"><img src='logos/redhat.png' alt="ResourceForge_Logo" style="width:60px;height:auto; margin-bottom: -3px;"></span>
+
+<b>A curated collection of software, virtual machines, utilities, APKs, installers, and other useful resources.</b>
+  
+</div>
 
 ---
 
@@ -30,7 +32,7 @@ Pre-configured virtual machines for virtualization, learning, testing, and cyber
 
 ---
 
-### 📱 Android Resources
+### <span style="vertical-align: middle;"><img src="logos/android_logo.png" alt="Android Logo" style="width:40px;height:auto; margin-bottom:-3px;"></span> &nbsp;Android Resources
 
 Useful Android applications and utilities that are frequently used.
 
