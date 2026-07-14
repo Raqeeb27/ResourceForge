@@ -1,16 +1,16 @@
 <div align="center">
 
-# ResourceForge <span style="vertical-align: middle;"><img src='logos/redhat.png' alt="ResourceForge_Logo" style="width:60px;height:auto; margin-bottom: -3px;"></span>
+# ResourceForge <span style="vertical-align: middle;"><img src="logos/redhat.png" alt="ResourceForge Logo" style="width:60px;height:auto; margin-bottom:-3px;"></span>
 
-<b>A curated collection of software, virtual machines, utilities, APKs, installers, and other useful resources.</b>
-  
+**Curated pre-configured virtual machines, Android resources, and useful software for developers and cybersecurity enthusiasts.**
+
 </div>
 
 ---
 
 ## 📖 About
 
-**ResourceForge** is a curated collection of useful resources that are either personally configured, difficult to locate, or frequently required for development, cybersecurity, virtualization, and Android.
+**ResourceForge** is a curated collection of resources that are either personally configured, difficult to locate, or frequently required for development, cybersecurity, virtualization, and Android.
 
 Rather than maintaining links to software that can be easily found through a quick web search, this repository focuses on resources that save time and provide additional value.
 
@@ -18,11 +18,12 @@ Rather than maintaining links to software that can be easily found through a qui
 
 ## 📚 Collections
 
-### 🖥️ Virtual Machines
+### <span style="vertical-align: middle;"><img src="logos/virtualbox_logo.png" alt="VirtualBox Logo" style="width:40px;height:auto; margin-bottom:-3px;"></span> &nbsp;Virtual Machines
 
-Pre-configured virtual machines for virtualization, learning, testing, and cybersecurity practice.
+A curated collection of **pre-configured VirtualBox virtual machines** for learning, development, cybersecurity, and testing.
 
 **Includes**
+
 - Windows virtual machines
 - Linux virtual machines
 - Vulnerable practice machines
@@ -34,9 +35,10 @@ Pre-configured virtual machines for virtualization, learning, testing, and cyber
 
 ### <span style="vertical-align: middle;"><img src="logos/android_logo.png" alt="Android Logo" style="width:40px;height:auto; margin-bottom:-3px;"></span> &nbsp;Android Resources
 
-Useful Android applications and utilities that are frequently used.
+Useful Android applications and utilities for development and productivity.
 
 **Includes**
+
 - Termux
 - Termux API
 - Termux Styling
@@ -48,27 +50,26 @@ Useful Android applications and utilities that are frequently used.
 
 ## ✨ Why ResourceForge?
 
-* 🎯 Curated instead of cluttered
-* ⚡ Reliable download sources
-* 🖥️ Personally configured virtual machines
-* 📱 Essential Android resources
-* 🚀 Simple to navigate and maintain
+- 🎯 Curated instead of cluttered
+- ⚡ Reliable download sources
+- 🖥️ Pre-configured VirtualBox virtual machines
+- 📱 Essential Android resources
+- 🚀 Simple to navigate and maintain
 
 ---
 
-## 🏷️ Resource Badges
+## 🏷️ Badge Legend
 
 Resources may include badges to quickly identify their source and purpose.
 
-|        Badge       | Meaning                              |
-| :----------------: | ------------------------------------ |
-|     🟢 Official    | Official download source             |
-|  🔵 Pre-configured | Personally configured resource       |
-|      ☁️ Cloud      | Hosted on Google Drive or OneDrive   |
-|     📦 Archive     | Compressed archive (ZIP / 7z / etc.) |
-| 💻 Virtual Machine | Virtual machine image                |
-|     📱 Android     | Android application or APK           |
-|    ⭐ Recommended   | Recommended resource                 |
+| Badge | Meaning |
+| :---: | --- |
+| 🟢 Official | Official resource or project |
+| 🔵 Pre-configured | Personally configured resource |
+| 📦 Archive | Compressed archive (ZIP / 7z / etc.) |
+| ☁️ Google Drive | Hosted on Google Drive |
+| ☁️ OneDrive | Hosted on Microsoft OneDrive |
+| ⭐ Recommended | Recommended resource |
 
 ---
 
@@ -96,5 +97,5 @@ If you find a broken link or have a recommendation, feel free to open an issue o
 
 ## 🔗 Quick Access
 
-- 🖥️ **[Virtual Machines](virtual-machines/)**
-- 📱 **[Android Resources](android-resources/)**
+- <span style="vertical-align: middle;"><img src="logos/virtualbox_logo.png" alt="VirtualBox Logo" style="width:22px;height:auto; margin-bottom:-2px;"></span> **[Virtual Machines](virtual-machines/)**
+- <span style="vertical-align: middle;"><img src="logos/android_logo.png" alt="Android Logo" style="width:22px;height:auto; margin-bottom:-2px;"></span> **[Android Resources](android-resources/)**
