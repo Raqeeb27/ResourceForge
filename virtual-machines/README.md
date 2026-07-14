@@ -23,7 +23,7 @@ Before importing any virtual machine, ensure the following:
 
 > **Note**
 >
-> If VirtualBox fails to launch or reports missing runtime components, install the latest Install the latest **[Microsoft Visual C++ Redistributable (x64)](https://aka.ms/vc14/vc_redist.x64.exe)** from Microsoft's official website before trying again.
+> If VirtualBox fails to launch or reports missing runtime components, install the latest **[Microsoft Visual C++ Redistributable (x64)](https://aka.ms/vc14/vc_redist.x64.exe)** from Microsoft's official website before trying again.
 ---
 
 # <span style="vertical-align: middle;"><img src="../logos/microsoft_logo.png" alt="Windows Logo" style="width:35px;height:auto; margin-bottom:-3px;"></span>  Windows
