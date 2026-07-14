@@ -17,14 +17,13 @@ All virtual machines are compressed as **7z archives** and are intended for educ
 Before importing any virtual machine, ensure the following:
 
 - 📖 **[Enable Virtualization](enable-virtualization.md)** in your system BIOS/UEFI.
-- 💻 Install **Oracle VirtualBox**.
+- 💻 Install **[Oracle VirtualBox](https://www.virtualbox.org/wiki/Downloads)**.
 - 💾 Ensure sufficient disk space to extract the downloaded archive.
-- 📦 Install **7-Zip** (or any compatible archive manager) to extract `.7z` files.
+- 📦 Install **[7-Zip](https://www.7-zip.org/download.html)** to extract `.7z` files.
 
 > **Note**
 >
-> If VirtualBox fails to launch or reports missing runtime components, install the latest **Microsoft Visual C++ Redistributable (x64)** from Microsoft's official website before trying again. [Download Here](https://aka.ms/vc14/vc_redist.x64.exe).
-
+> If VirtualBox fails to launch or reports missing runtime components, install the latest Install the latest **[Microsoft Visual C++ Redistributable (x64)](https://aka.ms/vc14/vc_redist.x64.exe)** from Microsoft's official website before trying again.
 ---
 
 # <span style="vertical-align: middle;"><img src="../logos/microsoft_logo.png" alt="Windows Logo" style="width:35px;height:auto; margin-bottom:-3px;"></span>  Windows
