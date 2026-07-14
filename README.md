@@ -14,31 +14,33 @@ Rather than maintaining links to software that can be easily found through a qui
 
 ---
 
-## 🚀 What's Included
+## 📚 Collections
 
 ### 🖥️ Virtual Machines
 
-A collection of pre-configured virtual machines for virtualization, learning, testing, and cybersecurity practice.
+Pre-configured virtual machines for virtualization, learning, testing, and cybersecurity practice.
 
-Includes:
+**Includes**
+- Windows virtual machines
+- Linux virtual machines
+- Vulnerable practice machines
+- Personal lab environments
 
-* Windows virtual machines
-* Linux virtual machines
-* Vulnerable practice machines
-* Personal pre-configured lab environments
+➡️ **[Browse Virtual Machines →](virtual-machines/)**
 
 ---
 
 ### 📱 Android Resources
 
-Essential Android applications and utilities that are frequently used.
+Useful Android applications and utilities that are frequently used.
 
-Includes:
+**Includes**
+- Termux
+- Termux API
+- Termux Styling
+- Files for Android
 
-* Termux
-* Termux API
-* Termux Styling
-* Files for Android
+➡️ **[Browse Android Resources →](android-resources/)**
 
 ---
 
