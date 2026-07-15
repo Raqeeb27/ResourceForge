@@ -64,5 +64,5 @@ Useful when another file manager cannot access certain Android directories or wh
 
 ## 🔗 Other Quick Links
 
-- 🖥️ **[Virtual Machines](../virtual-machines/)**
+- <span style="vertical-align: middle;"><img src="../logos/virtualbox_logo.png" alt="VirtualBox Logo" style="width:22px;height:auto; margin-bottom:-2px;"></span> **[Virtual Machines](../virtual-machines/)**
 - ⬅️ **[Back to ResourceForge](../)**
