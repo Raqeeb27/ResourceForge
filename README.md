@@ -27,7 +27,6 @@ A curated collection of **pre-configured VirtualBox virtual machines** for learn
 - Windows virtual machines
 - Linux virtual machines
 - Vulnerable practice machines
-- Personal lab environments
 
 ➡️ **[Browse Virtual Machines →](virtual-machines/)**
 
